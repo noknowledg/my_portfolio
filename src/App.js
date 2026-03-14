@@ -129,7 +129,7 @@ const App = () => {
 
         {/* LinkedIn */}
         <a
-          href="https://www.linkedin.com/in/anuradhashukla"
+          href="https://www.linkedin.com/in/anuradha-shukla-26997330a/"
           target="_blank"
           rel="noopener noreferrer"
           className="text-slate-700 hover:text-blue-600 transition text-5xl"
@@ -322,7 +322,7 @@ const App = () => {
           <GithubIcon className="w-6 h-6" />
         </a>
         <a
-          href="https://www.linkedin.com/in/anuradhashukla"
+          href="https://www.linkedin.com/in/anuradha-shukla-26997330a/"
           target="_blank"
           rel="noopener noreferrer"
           className="p-4 bg-white/5 rounded-2xl hover:bg-blue-600 transition-colors text-white"
