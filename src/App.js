@@ -139,7 +139,7 @@ const App = () => {
 
         {/* View CV */}
         <a
-          href="/Anuradha_CV.pdf"
+          href="/Anuradha_Shukla_cv.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="border border-[#2A9D8F] px-6 py-3 rounded-lg font-medium hover:bg-blue-600 hover:text-white transition duration-300"
@@ -284,7 +284,7 @@ const App = () => {
     {/* Hero / CV Button */}
     <div className="flex justify-center mb-16">
       <a
-        href="/Anuradha_CV.pdf"
+        href="/Anuradha_Shukla_cv.pdf"
         download
         className="flex items-center gap-3 bg-white text-slate-900 px-12 py-5 rounded-3xl font-black text-sm uppercase tracking-widest hover:bg-blue-500 hover:text-white transition-all transform hover:-translate-y-1"
       >
